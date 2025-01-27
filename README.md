@@ -1,4 +1,4 @@
-# WordLens - Get Word Definition and Translation
+# WordLens
 
 ### See definition
 Select any word on the page and click the extension icon to see the definitions. 
